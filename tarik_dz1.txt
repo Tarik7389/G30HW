@@ -1,4 +1,4 @@
-first home work
+first home work terminal
 
 1) Посмотреть где я
 pwd
